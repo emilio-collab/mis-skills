@@ -1,0 +1,4 @@
+interface:
+  display_name: "Emilio Evaluar Riesgos Obras"
+  short_description: "Riesgos de obra con o sin matriz"
+  default_prompt: "Use $emilio-evaluar-riesgos-obras para redactar una evaluacion o analisis de riesgos de una obra de construccion."
